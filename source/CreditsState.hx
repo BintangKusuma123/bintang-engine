@@ -83,6 +83,7 @@ class CreditsState extends MusicBeatState
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Android Support'],
 			['Saw (M.A. Jigsaw)',	'saw',				'Main Programmer of Psych Engine\nWith Android Support',	'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 	'444444'],
+		        ['Bintang Kusuma FNF Indo','bintangkusuma','Make Android Port For This Mod and Modified this Engine','https://m.youtube.com/channel/UC1Lod6ffcuWJhpPrfngu1Pg', '0xFF322BFF'],
 			['Goldie',				'goldie',			'Virtual Pad Artist',										'https://www.youtube.com/channel/UCjTi9Hfl1Eb5Bgk5gksmsbA', 	'444444'],
 			['Join our Discord!',	'discord',			'If you dare...',											'https://discord.gg/42bGcJG26x', 								'5165F6'],
 			[''],
